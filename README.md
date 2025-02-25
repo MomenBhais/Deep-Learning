@@ -1,5 +1,7 @@
 # Machine Learning & Deep Learning Course
 
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
+
 ## Overview
 This repository contains practical implementations of Machine Learning and Deep Learning concepts using Python libraries. The content is structured into multiple sections, each covering a key aspect of data analysis and model building.
 
